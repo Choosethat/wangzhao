@@ -1,0 +1,89 @@
+#main{
+	width: 100%;
+	height: 485px;
+	background: url(../img/full-bgw-light.png)repeat center top;
+	padding-top: 43px;
+}
+#rel_main{
+	width: 720px;
+	height: 486px;
+	margin: auto;
+}
+#rel_main>p{
+	float: right;
+}
+#rel_main>p a{
+	color: #df280a;
+}
+#cen{
+	width: 100%;
+	height: 428px;
+	border-top: 4px #0096d6 solid;
+	float: left;
+	margin-top: 5px;
+	background: #fff;
+	padding-top: 32px;
+}
+#cen ul{
+	width: 350px;
+	height: 300px;
+	margin: auto;
+}
+#cen ul span,#cen ul p{
+	color: red;
+}
+#cen ul p{
+	opacity: 0;
+}
+#cen ul span{
+	margin-right: 5px;
+}
+#cen ul li{
+	width: 310px;
+	height: 50px;
+}
+#cen ul div{
+	float: left;
+}
+.cen_l{
+	width: 77px;
+	height: 40px;
+	text-align: right;
+	margin-right: 15px;
+}
+.cen_r input{
+	width: 210px;
+	height: 23px;
+}
+#yan input{
+	width: 120px;
+	height: 23px;
+}
+#yan button{
+	width: 77px;
+	height: 21px;
+	border: 1px #0096D6 solid;
+	border-radius: 0 4px 0 4px;
+	cursor: pointer;
+	background: #fff;
+	color: #0096D6;
+	margin-left: 8px;
+}
+#yan button:hover{
+	background: #0096D9;
+	color: #fff;
+}
+#log{
+	width: 215px;
+	height: 35px;
+	margin-left: 92px;
+	border: none;
+	border-radius: 0 5px 0 5px;
+	cursor: pointer;
+	background: #0096D6;
+	color: #fff;
+	font-size: 16px;
+}
+#log:hover{
+	background: #006699;
+}

@@ -1,0 +1,163 @@
+{
+	"main1":[
+		{
+			"img":"img/bijiben (2).png",
+			"title":"惠普薄锐ENVY 15-AS109TU",
+			"js":"全新美特尔 第7代处理器",
+			"money":"￥ 7499"
+		},{
+			"img":"img/bijiben (3).png",
+			"title":"惠普薄锐ENVY 13-AB903TU",
+			"js":"仅13.94mm 轻薄便携",
+			"money":"￥ 5299"
+		},{
+			"img":"img/bijiben (8).png",
+			"title":"惠普暗影精灵Ⅱ代AX020",
+			"js":"功能强大 游戏必备",
+			"money":"￥ 7999"
+		},{
+			"img":"img/bijiben (5).png",
+			"title":"惠普幽灵SPECTRE 13-V115TU",
+			"js":"至薄至美豪华有度",
+			"money":"￥ 7999"
+		},{
+			"img":"img/bijiben (7).png",
+			"title":"惠普幽灵SPECTRE X360 13-W021TU",
+			"js":"360度可翻转 高清触控屏",
+			"money":"￥ 7999"
+		},{
+			"img":"img/bijiben (1).png",
+			"title":"惠普暗影精灵Ⅱ代游戏本 15-AX030TX",
+			"js":"NVIDIA GeForce GTX960M显卡",
+			"money":"￥ 5499"
+		}
+	],"main2":[
+		{
+			"img":"img/taishiji (3).png",
+			"title":"惠普OMEN 870-152cn 台式电脑",
+			"js":"性能强大 畅享游戏体验",
+			"money":"￥ 6999"
+		},{
+			"img":"img/taishiji (6).png",
+			"title":"惠普OMEN 900-010cn 台式电脑",
+			"js":"45°菱形体验支持VR设备",
+			"money":"￥ 29999"
+		},{
+			"img":"img/taishiji (2).png",
+			"title":"惠普Pavilion 600-a035cn台式电脑",
+			"js":"外形小巧 性能出色",
+			"money":"￥ 4599"
+		},{
+			"img":"img/taishiji (5).png",
+			"title":"惠普Z238 台式工作站",
+			"js":"高效性能 安全可靠",
+			"money":"￥ 4299"
+		},{
+			"img":"img/taishiji (7).png",
+			"title":"惠普DMEN 900-011cn 台式电脑",
+			"js":"核心玩家的旗舰主机 支持VR设备",
+			"money":"￥ 19999"
+		},{
+			"img":"img/taishiji (2).png",
+			"title":"600 G2 非触控式一体机",
+			"js":"下单立减2000元",
+			"money":"￥ 6899"
+		}
+	],"main3":[
+		{
+			"img":"img/dayinji (2).png",
+			"title":"惠普3638 喷墨一体机",
+			"js":"无线直连 趣味打印",
+			"money":"￥ 800"
+		},{
+			"img":"img/dayinji (1).png",
+			"title":"惠普M1136多功能一体机",
+			"js":"三合一经典款 家用办公精选",
+			"money":"￥ 1209"
+		},{
+			"img":"img/dayinji (4).png",
+			"title":"惠普M132a多功能一体机",
+			"js":"打印复印扫描一体机",
+			"money":"￥ 1599"
+		},{
+			"img":"img/dayinji (9).png",
+			"title":"惠普201A原装硒鼓套装（四色）",
+			"js":"原装耗材 套装优惠",
+			"money":"￥ 2066"
+		},{
+			"img":"img/dayinji (10).png",
+			"title":"惠普HP 803墨盒套装",
+			"js":"优惠套装 原装正品",
+			"money":"￥ 208"
+		},{
+			"img":"img/dayinji (8).png",
+			"title":"惠普678黑色墨盒（双盒套装）",
+			"js":"线上特供 品质保障",
+			"money":"￥ 128"
+		}
+	],"main4":[
+		{
+			"img":"img/peijian (2).png",
+			"title":"惠普暗影精灵Ⅱ代游戏鼠标",
+			"js":"精准定位 人体工学设计",
+			"money":"￥ 379"
+		},{
+			"img":"img/peijian (4).png",
+			"title":"惠普23ER 23英寸显示屏",
+			"js":"色彩逼真 视觉享受",
+			"money":"￥ 1049"
+		},{
+			"img":"img/peijian (1).png",
+			"title":"惠普入耳式H2310粉色耳机",
+			"js":"清晰音质 靓丽色彩",
+			"money":"￥ 99"
+		},{
+			"img":"img/peijian (3).jpg",
+			"title":"惠普Spectre黑色手拎包",
+			"js":"精美时尚 轻便携带",
+			"money":"￥ 599"
+		},{
+			"img":"img/peijian (3).png",
+			"title":"惠普WASD 暗影精灵Ⅱ代游戏键盘",
+			"js":"轻薄按键 快速响应",
+			"money":"￥ 699"
+		},{
+			"img":"img/peijian(5).jpg",
+			"title":"惠普Z500 深灰玫瑰金蓝牙鼠标",
+			"js":"优雅纤薄 操控舒适",
+			"money":"￥ 159"
+		}
+	],"main5":[
+		{
+			"img":"img/gongzuozhan (6).png",
+			"title":"惠普ZBOOK STUDIO移动工作站",
+			"js":"实力强自内芯",
+			"money":"￥ 21999"
+		},{
+			"img":"img/gongzuozhan (5).png",
+			"title":"惠普ZBOOK 15 G3移动工作站",
+			"js":"潜心设计超薄轻便",
+			"money":"￥ 24999"
+		},{
+			"img":"img/gongzuozhan (4).png",
+			"title":"惠普Z440-SC016工作站",
+			"js":"性能稳定 安全可靠",
+			"money":"￥ 17999"
+		},{
+			"img":"img/gongzuozhan (3).png",
+			"title":"惠普Z240-SC002工作站",
+			"js":"15年奥斯卡品质保证",
+			"money":"￥ 13550"
+		},{
+			"img":"img/gongzuozhan (2).png",
+			"title":"惠普Z23N背光显示器",
+			"js":"超宽视角 精准显示",
+			"money":"￥ 1699"
+		},{
+			"img":"img/gongzuozhan (1).png",
+			"title":"惠普DREAMCOLOR Z24X专业显示器",
+			"js":"色彩精准 经济实惠",
+			"money":"￥ 6499"
+		}
+	]
+}
